@@ -1,0 +1,188 @@
+.heading-of-buton {
+  margin-top: 370px;
+  margin-left: 490px;
+  position: absolute;
+  color: white;
+  font-size: 55px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.p-o-b {
+  margin-top: 470px;
+  margin-left: 780px;
+  color: white;
+  position: absolute;
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+.input[type="email"] {
+  margin-top: 550px;
+  margin-left: 670px;
+  width: 500px;
+  height: 60px;
+  position: absolute;
+  border-color: rgb(68, 64, 64);
+  background-color: transparent;
+  font-size: 20px;
+  color: azure;
+  border: 1px solid red;
+  border-radius: 10px;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+textarea:focus {
+  outline: none;
+}
+
+body {
+  background-color: black;
+}
+
+.backgroundpic {
+  width: 1950px;
+  margin-top: -300px;
+  position: absolute;
+
+
+
+}
+
+.box-1 {
+  width: 180px;
+  border: 2px solid rgb(255, 0, 0);
+  position: absolute;
+  margin-top: 550px;
+  margin-left: 1200px;
+  font-size: 13px;
+  text-align: center;
+  align-items: center;
+  background-color: red;
+  border-radius: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  transition: all 0.2s ease;
+
+}
+
+.box-1:hover {
+  background-color: darkred;
+  border: 2px solid darkred;
+  color: white;
+}
+
+.box-2 {
+  width: 120px;
+  border: 6px solid rgb(255, 0, 0);
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 1500px;
+  text-align: center;
+  background-color: red;
+  border-radius: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  transition: all 0.2s ease;
+  font-size: 13px;
+}
+
+.box-2:hover {
+  transform: scale(0.9);
+  background-color: darkred;
+  border: 2px solid darkred;
+  color: white;
+}
+
+.start-now {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 800px;
+  margin-left: 50px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+}
+
+.trend {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 1000px;
+  margin-left: 120px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 35px;
+}
+
+.ebox1 {
+  width: 350px;
+  height: 325px;
+  background-color: darkred;
+  font-weight: bold;
+  font-size: 25px;
+  position: absolute;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(255, 255, 255);
+  margin-top: 2100px;
+  margin-left: 50px;
+  transition: all 0.2s ease;
+  align-items: center;
+  border-radius: 10px;
+  text-align: center;
+
+}
+
+.ebox1:hover {
+  background-color: rgb(104, 1, 1);
+}
+
+.ebox2 {
+  width: 400px;
+  height: 355px;
+  background-color: darkred;
+  font-weight: bold;
+  font-size: 25px;
+  position: absolute;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(255, 255, 255);
+  margin-top: 2100px;
+  margin-left: 700px;
+  transition: all 0.2s ease;
+  align-items: center;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.ebox2:hover {
+  background-color: rgb(104, 1, 1);
+}
+
+.ebox3 {
+  width: 350px;
+  height: 270px;
+  background-color: darkred;
+  font-weight: bold;
+  font-size: 25px;
+  position: absolute;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(255, 255, 255);
+  margin-top: 2100px;
+  margin-left: 1500px;
+  transition: all 0.2s ease;
+  align-items: center;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.ebox3:hover {
+  background-color: rgb(104, 1, 1);
+}
+.trendpic{
+  margin-top: 1065px;
+  margin-left: 50px;
+  position: absolute;
+  width: 50px;
+  height: 40px;
+}
+
+.end {
+  margin-top: 3000px;
+  position: absolute;
+}
